@@ -40,3 +40,5 @@
 4. trigger鍵可以開啟/關閉互動選單
 	- 開啟互動選單後，在touchpad上滑動來選擇要使用的互動對話
 	- 按下touchpad做確認
+## google drive
+https://drive.google.com/drive/folders/1T9kADNMIg7gIoFmXBg8R7Ug5o9PGEtnf
