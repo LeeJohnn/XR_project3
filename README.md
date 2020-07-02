@@ -1,4 +1,4 @@
-# XR_project3
+# XR_project3 - 七彩霓虹棋
 
 ## 玩法說明
 
